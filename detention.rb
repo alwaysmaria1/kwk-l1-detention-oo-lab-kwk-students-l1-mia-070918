@@ -4,10 +4,10 @@ class Detention
   attr_accessor :location, :time, :grumpy_teacher, :activity
   
   
-  def initialize
+  def initialize(activity)
      @activity=activity
   end
-  
+
   # def location=(new_location)
   #   @location=new_location
   # end
