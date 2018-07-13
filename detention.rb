@@ -5,7 +5,8 @@ class Detention
   end
   def location
     @location
-end
+  end
+end 
 maria= Detention.new
 
 rudy= Detention.new
