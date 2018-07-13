@@ -21,6 +21,6 @@ class Detention
   # end
   
 end 
-# maria= Detention.new
+maria= Detention.new
 # rudy= Detention.new
 
