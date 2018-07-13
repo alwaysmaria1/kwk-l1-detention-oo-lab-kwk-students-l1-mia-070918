@@ -1,6 +1,5 @@
 #Code your detention class here
 class Detention 
-  students=0
   
   attr_accessor :location, :time, :grumpy_teacher, :activity
   
