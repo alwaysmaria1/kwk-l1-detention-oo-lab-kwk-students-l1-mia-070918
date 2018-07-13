@@ -13,6 +13,7 @@ class Detention
 end
 maria= Detention.new 
 rudy= Detention.new 
+
 puts maria.name
 puts maria.age
 puts rudy.name
