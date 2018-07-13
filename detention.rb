@@ -5,7 +5,7 @@ class Detention
   
   
   def initialize
-    @location= location
+     
   end
   
   # def location=(new_location)
