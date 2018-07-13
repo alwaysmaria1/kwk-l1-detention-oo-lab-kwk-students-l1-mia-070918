@@ -1,6 +1,6 @@
 #Code your detention class here
 class Detention 
-  def initialize
+  def initialize(name,age)
     @name=name
     @age=age
   end
