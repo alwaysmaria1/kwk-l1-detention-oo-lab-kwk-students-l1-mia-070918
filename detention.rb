@@ -12,7 +12,7 @@ class Detention
   end
 end
 maria= Detention.new("maria",15)
-rudy= Detention.new("rudy",14)
+# rudy= Detention.new("rudy",14)
 
 puts maria.name
 puts maria.age
