@@ -1,7 +1,7 @@
 #Code your detention class here
 class Detention 
   @@students=[]
-  attr_accessor :location, :time, :grumpy_teacher, :activity, :students
+  attr_accessor :location, :time, :grumpy_teacher, :activity
   
   
   def initialize
@@ -9,6 +9,9 @@ class Detention
      @students=students
   end
 
+  def students
+    @@students=[]
+    
   # def location=(new_location)
   #   @location=new_location
   # end
