@@ -11,4 +11,3 @@ rudy= Detention.new
 puts maria.name
 puts maria.age
 puts rudy.name
-puts rudy.age
