@@ -11,5 +11,5 @@ maria= Detention.new
 rudy= Detention.new
 
 
-puts maria.
-puts rudy.
+puts maria.location
+puts rudy.location
