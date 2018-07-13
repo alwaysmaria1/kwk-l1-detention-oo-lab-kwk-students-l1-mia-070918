@@ -1,13 +1,15 @@
 #Code your detention class here
 class Detention 
   def initialize
+    @location= location
   end
+  def location
+    @location
 end
 maria= Detention.new
 
 rudy= Detention.new
 
 
-puts maria.name
-puts maria.age
-puts rudy.name
+puts maria.
+puts rudy.
