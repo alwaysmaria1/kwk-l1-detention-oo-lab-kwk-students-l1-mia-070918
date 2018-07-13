@@ -21,6 +21,6 @@ class Detention
   # end
   
 end 
-maria= Detention.new(activity,1)
+maria= Detention.new
 # rudy= Detention.new
 
