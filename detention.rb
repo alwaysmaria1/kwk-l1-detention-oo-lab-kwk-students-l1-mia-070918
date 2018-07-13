@@ -6,6 +6,7 @@ class Detention
   
   def initialize
      @activity="collective punishment"
+     @students=students
   end
 
   # def location=(new_location)
