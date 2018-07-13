@@ -10,7 +10,7 @@ class Detention
   end
 
   def students
-    @@students=[]
+    @@students<<
   end  
   # def location=(new_location)
   #   @location=new_location
